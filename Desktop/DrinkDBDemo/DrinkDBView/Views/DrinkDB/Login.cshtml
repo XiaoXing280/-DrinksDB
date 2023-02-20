@@ -1,0 +1,129 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+    <title>登录</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: url(../img/login1.jpg) no-repeat center 0px;
+            background-size: cover;
+            background-position: center 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .login-box {
+            margin-top: 320px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            width: 450px;
+            padding: 40px;
+            background: url(../img/login1.jpg);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.5);
+            border-radius: 10px;
+        }
+
+            .login-box h2 {
+                margin: 0 0 30px;
+                padding: 0;
+                text-align: center;
+                color: black;
+            }
+
+            .login-box .login-field {
+                position: relative;
+            }
+
+                .login-box .login-field input {
+                    width: 100%;
+                    padding: 10px 0;
+                    font-size: 16px;
+                    color: rgba(0,0,0,.5);
+                    margin-bottom: 30px;
+                    border: none;
+                    border-bottom: 1px solid rgba(0,0,0,.5);
+                    outline: none;
+                    background: transparent;
+                }
+
+                .login-box .login-field label {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    letter-spacing: 1px;
+                    padding: 10px 0;
+                    font-size: 16px;
+                    color: rgba(0,0,0,.5);
+                    pointer-events: none;
+                    transition: .5s;
+                }
+
+                .login-box .login-field input:focus ~ label,
+                .login-box .login-field input:valid ~ label {
+                    top: -23px;
+                    left: 0;
+                    color: aqua;
+                    font-size: 12px;
+                }
+
+            .login-box button {
+                background: transparent;
+                border: none;
+                outline: none;
+                color: #fff;
+                background: #03a9f4;
+                padding: 10px 20px;
+                cursor: pointer;
+                border-radius: 5px;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="col-md-12 col-sm-12" style="width:1050px;margin:0 auto;padding:0;">
+            <div class="login-box">
+                <h2>登录(管理员/用户)</h2>
+                <form method="post" action="Login1">
+                    <div class="login-field">
+                        <input type="text" name="MessNum" required="" />
+                        <label>账号</label>
+                    </div>
+                    <div class="login-field">
+                        <input type="password" name="MessPwd" required="" />
+                        <label>密码</label>
+                    </div>
+                    <div>
+                        @Html.DropDownList("b", null, "请选择", new { @class = "form-control" })
+                    </div>
+                    <div>
+                        <a href="Main" class="pull-right col-md-4 col-sm-4">返回首页</a>
+                    </div>
+                    <br />
+                    <div>
+                        <button class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2 btn btn-lg btn-primary" type="submit">登录</button>
+                        <button class="col-md-3 col-sm-3 col-sm-offset-2 col-md-offset-2 btn btn-lg btn-primary" type="button">
+                            <a href="Register" style="color:white">注册</a>
+                        </button>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

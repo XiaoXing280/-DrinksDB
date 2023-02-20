@@ -1,0 +1,268 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/main.css" rel="stylesheet"  />
+    <script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+    <title>饮品信息科普网</title>
+    <script type="text/javascript">
+    //首页轮播
+    var times = null;
+    var index = 0;
+    var arr = ["one.jpg", "tow.jpg", "three.jpg", "four.jpg", "five.jpg", "six.jpg"]
+    function show1(num) {
+        index = num;
+        document.getElementById("img0").src = "/img/" + arr[index];
+        var imgarr = document.getElementById("bottomDiv");
+        var numarr = imgarr.getElementsByTagName("li");
+        for (var j = 0; j < numarr.length; j++) {
+            if (j == index) {
+                numarr[j].style.background = "#00ff21";
+            } else {
+                numarr[j].style.background = "#808080";
+            }
+        }
+        if (index < (arr.length - 1)) {
+            index++;
+        } else {
+            index = 0
+        }
+        times = setTimeout("show1(" + index + ")", 2000)
+    }
+    function show2(num) {
+        clearTimeout(times);
+        if (num == "left") {
+            if (index == 1) {
+                index = 5;
+            } else if (index == 0) {
+                index = 4;
+            } else {
+                index -= 2;
+            }
+        } else {
+            if (index == 6) {
+                index = 0
+            }
+        }
+        show1(index);
+    }
+    //点击图片(新闻页面1)
+    function clickimg1() {
+        window.open("xinwen1");
+    }
+    //点击图片(新闻页面2)
+    function clickimg2() {
+        window.open("xinwen2");
+    }
+    //点击图片(新闻页面3)
+    function clickimg3() {
+        window.open("xinwen3");
+    }
+    </script>
+</head>
+<body onload="show1(0)">
+    <div>
+        <form id="form1" runat="server">
+            <div id="main">
+                <div id="top">
+                    <div id="top1">
+                        <img src="~/img/top1.png" />
+                    </div>
+                    <div id="top2"><asp:Label runat="server" ID="lblMess1">饮品科普，你值得信赖！</asp:Label></div>
+                    <div id="top3">
+                         <asp:Label runat="server" id="lblNum" style="color:blue">@ViewBag.Text</asp:Label>
+                         <a href="Login"><asp:Label runat="server" >退出</asp:Label></a>
+                    </div>
+                </div>
+                <div id="middle">
+                    <ul>
+                        <li><a href="Main">首页</a></li>
+                        <li><a href="News">饮品新时代</a></li>
+                        <li><a href="DrinkXT">饮品科普</a></li>
+                        <li><a href="XTguanli">科普管理</a></li>
+                        <li><a href="jianjie">关于我们</a></li>
+                        <li class="pull-right"><a href="Register">注册</a></li>
+                        <li class="pull-right"><a href="Login">登录</a></li>
+                    </ul>
+                </div>
+                <div id="lunbo">
+                    <div id="lunboimg">
+                        <img src="~/img/preImg.png" onclick="show2('left')" id="imgleft" />
+                        <img src="~/img/nextImg.png" onclick="show2('right')" id="imgright" />
+                        <img src="~/img/one.jpg" id="img0" width="1050" height="450" />
+                    </div>
+                    <div id="bottomDiv">
+                        <ul>
+                            <li style="background:#00ff21"></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="bottom">
+                    <div id="botLeft">
+                        <div id="Left1">
+                            <div class="row">
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/汽水x.jpg" class="img-responsive img-rounded" />
+                                        <div class="caption">
+                                            <h4><a href="#">碳酸饮料</a></h4>
+                                            <h6>汽水，一种清凉饮料，含有二氧化碳。把二氧化碳密封在糖水里，就会有部分的二氧化碳气体溶解在水中，从而形成碳酸。汽水刺激味道就是因为碳酸的缘故。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/奶茶x.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">奶茶</a></h4>
+                                            <h6>奶茶是一种牛奶和茶水的混合饮品，奶茶原为蒙古高原游牧民族的日常饮品，至今最少已有千年历史。蒙古高原是奶茶的发源地，最初最正宗的就是蒙古奶茶。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/酒x.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">酒</a></h4>
+                                            <h6>酒是指酒精度(乙醇含量)达到一定量的含酒精饮料。酒类是人们经常消费的一种饮品。在逢年过节、亲朋聚会时，饮酒助兴更是不可或缺。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/茶x.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">茶</a></h4>
+                                            <h6>茶原为中国南方的嘉木。茶叶作为一种著名的保健饮品，它是古代中国南方人民对中国饮食文化的贡献，也是中国人民对世界饮食文化的贡献。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div id="Left2">
+                            <div class="row">
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/果汁x.jpg" class="img-responsive img-rounded" />
+                                        <div class="caption">
+                                            <h4><a href="#">果汁</a></h4>
+                                            <h6>果汁以水果为原料经过物理方法如压榨、离心、萃取等得到的汁液产品，经加工制成的饮品。常喝果汁可以助消化、润肠道，补充膳食中营养成分的不足。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/咖啡.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">咖啡</a></h4>
+                                            <h6>咖啡(coffee),世界三大饮料之一，是用咖啡豆配合各种不同的烹煮器具制作出来的，而咖啡豆就是指咖啡树果实内之果仁，再用适当的烘焙方法烘焙而成。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/乳.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">含乳饮料</a></h4>
+                                            <h6>含乳饮料是指以鲜乳或乳制品为原料，经发酵或未经发酵加工制成的制品。按照蛋白质及调配方式分为配制型含乳饮料和发酵型含乳饮料。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-3">
+                                    <div class="thumbnail">
+                                        <img src="~/img/jianxi/牛奶.jpg" class="img-responsive img-rounded" width="300" height="150" />
+                                        <div class="caption">
+                                            <h4><a href="#">果汁</a></h4>
+                                            <h6>奶是牛奶，牛奶是一种营养丰富的保健食品，奶中的蛋白质质量优良，含有人体所需的必需氨基酸，其它营养素的含量亦十分丰富，钙的含量高，且好吸收。</h6>
+                                            <p><a href="#" class="btn btn-primary form-control" role="button">查看详情</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="botRight">
+                        <div id="Right1">
+                            <h2 style="font-family: '楷体';">饮品分类</h2>
+                            <hr />
+                            <a href="#">茶</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">酒</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">奶茶</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">饮用水</a>
+                            <br />
+                            <a href="#">碳酸饮料</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">乳类饮料</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">果汁饮料</a>
+                            <br />
+                            <a href="#">茶类饮料</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <a href="#">果蔬汁饮料</a>
+                        </div>
+                        <div id="Right2">
+                            <h2 style="font-family: '楷体';">饮品新消息</h2>
+                            <hr />
+                            <div class="div1">
+                                <div class="div2">
+                                    <img src="~/img/XinWen/新闻1.jpg" height="100" width="150" class="img-rounded" onclick="clickimg1()" />
+                                </div>
+                                <div class="div2">
+                                    <a href="xinwen1">
+                                        <h6 id="h61">打开一罐冰可乐，喝下一口，二氧化碳形成的气泡冲击着口腔，轻微的刺痛感和酸味产生的信号传递到大脑，刺激大脑产生内啡肽，「快乐水」就是这样让我们感受到喝碳酸饮料的「爽」。</h6>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="div1">
+                                <div class="div2">
+                                    <img src="~/img/XinWen/新闻2-1.jpg" height="100" width="150" class="img-rounded" onclick="clickimg2()" />
+                                </div>
+                                <div class="div2">
+                                    <a href="xinwen2">
+                                        <h6 id="h62">娃哈哈为何10年营收无增长？一文详述【娃哈哈的困境，宗庆后的难题】</h6>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="div1">
+                                <div class="div2">
+                                    <img src="~/img/XinWen/新闻3-3.jpg" height="100" width="150" class="img-rounded" onclick="clickimg3()" />
+                                </div>
+                                <div class="div2">
+                                    <a href="xinwen3">
+                                        <h6 id="h63">华彬红牛被判罚1亿！“内忧外患”之下，未来应该如何走下去？</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="banquan">
+                    <nav class="navbar navbar-default navbar-fixed-bottom" style="width:1050px;margin:0 auto;">
+                        饮品科普网有限公司版权所有  备案号：湘XXXXXXXXXXX
+                        <br />
+                        请联系 QQ：123456789  VX：YPKPW123
+                    </nav>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

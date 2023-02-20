@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DrinkDBModelStoreContainer" CdmEntityContainer="DrinkDBEntities">
+    <EntitySetMapping Name="DrinkInfo">
+      <EntityTypeMapping TypeName="DrinkDBModel.DrinkInfo">
+        <MappingFragment StoreEntitySet="DrinkInfo">
+          <ScalarProperty Name="DrinkID" ColumnName="DrinkID" />
+          <ScalarProperty Name="Drinkimg" ColumnName="Drinkimg" />
+          <ScalarProperty Name="DrinkName" ColumnName="DrinkName" />
+          <ScalarProperty Name="DrinkMesg" ColumnName="DrinkMesg" />
+          <ScalarProperty Name="Remark" ColumnName="Remark" />
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DrinkNews">
+      <EntityTypeMapping TypeName="DrinkDBModel.DrinkNews">
+        <MappingFragment StoreEntitySet="DrinkNews">
+          <ScalarProperty Name="NewsID" ColumnName="NewsID" />
+          <ScalarProperty Name="Newsimg" ColumnName="Newsimg" />
+          <ScalarProperty Name="NewsName" ColumnName="NewsName" />
+          <ScalarProperty Name="NewsMesg" ColumnName="NewsMesg" />
+          <ScalarProperty Name="NewsTime" ColumnName="NewsTime" />
+          <ScalarProperty Name="DrinkID" ColumnName="DrinkID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DrinkType">
+      <EntityTypeMapping TypeName="DrinkDBModel.DrinkType">
+        <MappingFragment StoreEntitySet="DrinkType">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MessInfo">
+      <EntityTypeMapping TypeName="DrinkDBModel.MessInfo">
+        <MappingFragment StoreEntitySet="MessInfo">
+          <ScalarProperty Name="MessID" ColumnName="MessID" />
+          <ScalarProperty Name="MessNum" ColumnName="MessNum" />
+          <ScalarProperty Name="MessName" ColumnName="MessName" />
+          <ScalarProperty Name="MessPwd" ColumnName="MessPwd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInfo">
+      <EntityTypeMapping TypeName="DrinkDBModel.UserInfo">
+        <MappingFragment StoreEntitySet="UserInfo">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserNum" ColumnName="UserNum" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPwd" ColumnName="UserPwd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DrinkDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DrinkInfo">
+    <Key>
+      <PropertyRef Name="DrinkID" />
+    </Key>
+    <Property Name="DrinkID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Drinkimg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DrinkName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DrinkMesg" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Remark" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="TypeID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DrinkType" Relationship="Self.FK__DrinkInfo__TypeI__2A4B4B5E" FromRole="DrinkInfo" ToRole="DrinkType" />
+    <NavigationProperty Name="DrinkNews" Relationship="Self.FK__DrinkNews__Drink__2E1BDC42" FromRole="DrinkInfo" ToRole="DrinkNews" />
+  </EntityType>
+  <EntityType Name="DrinkNews">
+    <Key>
+      <PropertyRef Name="NewsID" />
+    </Key>
+    <Property Name="NewsID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Newsimg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NewsName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NewsMesg" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NewsTime" Type="DateTime" Precision="3" />
+    <Property Name="DrinkID" Type="Int32" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <NavigationProperty Name="DrinkInfo" Relationship="Self.FK__DrinkNews__Drink__2E1BDC42" FromRole="DrinkNews" ToRole="DrinkInfo" />
+    <NavigationProperty Name="UserInfo" Relationship="Self.FK__DrinkNews__UserI__2F10007B" FromRole="DrinkNews" ToRole="UserInfo" />
+  </EntityType>
+  <EntityType Name="DrinkType">
+    <Key>
+      <PropertyRef Name="TypeID" />
+    </Key>
+    <Property Name="TypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="DrinkInfo" Relationship="Self.FK__DrinkInfo__TypeI__2A4B4B5E" FromRole="DrinkType" ToRole="DrinkInfo" />
+  </EntityType>
+  <EntityType Name="MessInfo">
+    <Key>
+      <PropertyRef Name="MessID" />
+    </Key>
+    <Property Name="MessID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MessNum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MessName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MessPwd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserNum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserPwd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DrinkNews" Relationship="Self.FK__DrinkNews__UserI__2F10007B" FromRole="UserInfo" ToRole="DrinkNews" />
+  </EntityType>
+  <Association Name="FK__DrinkInfo__TypeI__2A4B4B5E">
+    <End Role="DrinkType" Type="Self.DrinkType" Multiplicity="1" />
+    <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DrinkType">
+        <PropertyRef Name="TypeID" />
+      </Principal>
+      <Dependent Role="DrinkInfo">
+        <PropertyRef Name="TypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DrinkNews__Drink__2E1BDC42">
+    <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="1" />
+    <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DrinkInfo">
+        <PropertyRef Name="DrinkID" />
+      </Principal>
+      <Dependent Role="DrinkNews">
+        <PropertyRef Name="DrinkID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DrinkNews__UserI__2F10007B">
+    <End Role="UserInfo" Type="Self.UserInfo" Multiplicity="0..1" />
+    <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserInfo">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="DrinkNews">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DrinkDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DrinkInfo" EntityType="Self.DrinkInfo" />
+    <EntitySet Name="DrinkNews" EntityType="Self.DrinkNews" />
+    <EntitySet Name="DrinkType" EntityType="Self.DrinkType" />
+    <EntitySet Name="MessInfo" EntityType="Self.MessInfo" />
+    <EntitySet Name="UserInfo" EntityType="Self.UserInfo" />
+    <AssociationSet Name="FK__DrinkInfo__TypeI__2A4B4B5E" Association="Self.FK__DrinkInfo__TypeI__2A4B4B5E">
+      <End Role="DrinkType" EntitySet="DrinkType" />
+      <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DrinkNews__Drink__2E1BDC42" Association="Self.FK__DrinkNews__Drink__2E1BDC42">
+      <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+      <End Role="DrinkNews" EntitySet="DrinkNews" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DrinkNews__UserI__2F10007B" Association="Self.FK__DrinkNews__UserI__2F10007B">
+      <End Role="UserInfo" EntitySet="UserInfo" />
+      <End Role="DrinkNews" EntitySet="DrinkNews" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

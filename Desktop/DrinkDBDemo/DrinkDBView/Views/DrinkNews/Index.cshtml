@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+@model List<DrinkDBModel.DrinkNews>
+
+<style>
+    table > thead > tr > th {
+        text-align: center;
+    }
+</style>
+<link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+<script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <form method="post" action="/DrinkInfo/Index">
+                <table class="table table-striped table-bordered text-center">
+                    <caption>
+                        <h3 class="text-center">饮品新闻表</h3>
+                        <br />
+                        <div class="row">
+                            <div class="input-group ">
+                                <input type="text" name="UserNum" class="input-sm" placeholder="请输入发布者" value="@ViewBag.UserNum">
+                                <input type="text" name="NewsName" class="input-sm" placeholder="请输入饮品名称" value="@ViewBag.NewsName">
+                                <button type="submit" class="btn btn-success">查询</button>
+                                <a href="/DrinkNews/Edit" class="btn btn-danger">新增</a>
+                            </div>
+                        </div>
+                    </caption>
+                    <thead>
+                        <tr>
+                            <th>新闻编号</th>
+                            <th>饮品图片</th>
+                            <th>新闻标题</th>
+                            <th>新闻内容</th>
+                            <th>发布时间</th>
+                            <th>饮品编号</th>
+                            <th>发布者</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var itme in Model)
+                        {
+                            <tr>
+                                <td>@itme.NewsID</td>
+                                <td>
+                                    <img src="~/img/DrinkNewsIMG/@itme.Newsimg" width="80" />
+                                </td>
+                                <td>@itme.NewsName</td>
+                                <td>@itme.NewsMesg</td>
+                                <td>@itme.NewsTime</td>
+                                <td>@itme.DrinkInfo.DrinkName</td>
+                                <td>@itme.UserInfo.UserNum</td>
+                                <td>
+                                    <a href="/DrinkNews/Edit?NewsID=@itme.NewsID" class="btn btn-info btn-sm">修改</a>
+                                    <a href="/DrinkNews/Delete?NewsID=@itme.NewsID" onclick="return confirm('你确定要删除吗？')" class="btn btn-warning btn-sm">删除</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </form>
+            <div class="text-center col-md-12">
+                <a href="/DrinkDB/XTguanli" class="pull-right text-center">返回科普管理</a>
+            </div>
+            @Html.Partial("~/Views/Shared/_fenye.cshtml");
+        </div>
+    </div>
+</div>
+

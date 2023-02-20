@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+@model List<DrinkDBModel.DrinkType>
+
+<style>
+    table > thead > tr > th {
+        text-align: center;
+    }
+</style>
+<link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+<script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <table class="table table-striped table-bordered text-center">
+                <caption>
+                    <h3 class="text-center">饮品类型信息表</h3>
+                    <br />
+                    <div class="input-group center-block">
+                        <span class="input-group-btn ">
+                            <a href="/DrinkType/Edit" class="btn btn-danger  col-md-3">新增</a>
+                        </span>
+                    </div>
+                </caption>
+                <thead>
+                    <tr>
+                        <th>饮品类型id</th>
+                        <th>饮品类型名称</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var itme in Model)
+                    {
+                        <tr>
+                            <td>@itme.TypeID</td>
+                            <td>@itme.TypeName</td>                            
+                            <td>
+                                <a href="/DrinkType/Edit?TypeID=@itme.TypeID" class="btn btn-info btn-sm">修改</a>
+                                <a href="/DrinkType/Delete?TypeID=@itme.TypeID" onclick="return confirm('你确定要删除吗？')" class="btn btn-warning btn-sm">删除</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="text-center col-md-12">
+                <a href="/DrinkDB/XTguanli" class="pull-right text-center">返回科普管理</a>
+            </div>
+            @Html.Partial("~/Views/Shared/_fenye.cshtml");
+        </div>
+    </div>
+</div>
+
+

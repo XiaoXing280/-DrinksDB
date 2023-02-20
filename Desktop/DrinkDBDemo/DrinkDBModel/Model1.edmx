@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DrinkDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DrinkInfo">
+          <Key>
+            <PropertyRef Name="DrinkID" />
+          </Key>
+          <Property Name="DrinkID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Drinkimg" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="DrinkName" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="DrinkMesg" Type="nvarchar" MaxLength="200" Nullable="false" />
+          <Property Name="Remark" Type="nvarchar" MaxLength="500" />
+          <Property Name="TypeID" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DrinkNews">
+          <Key>
+            <PropertyRef Name="NewsID" />
+          </Key>
+          <Property Name="NewsID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Newsimg" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="NewsName" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="NewsMesg" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="NewsTime" Type="datetime" />
+          <Property Name="DrinkID" Type="int" Nullable="false" />
+          <Property Name="UserID" Type="int" />
+        </EntityType>
+        <EntityType Name="DrinkType">
+          <Key>
+            <PropertyRef Name="TypeID" />
+          </Key>
+          <Property Name="TypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TypeName" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="MessInfo">
+          <Key>
+            <PropertyRef Name="MessID" />
+          </Key>
+          <Property Name="MessID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MessNum" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="MessName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="MessPwd" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserInfo">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserNum" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="UserPwd" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__DrinkInfo__TypeI__2A4B4B5E">
+          <End Role="DrinkType" Type="Self.DrinkType" Multiplicity="1" />
+          <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DrinkType">
+              <PropertyRef Name="TypeID" />
+            </Principal>
+            <Dependent Role="DrinkInfo">
+              <PropertyRef Name="TypeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__DrinkNews__Drink__2E1BDC42">
+          <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="1" />
+          <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DrinkInfo">
+              <PropertyRef Name="DrinkID" />
+            </Principal>
+            <Dependent Role="DrinkNews">
+              <PropertyRef Name="DrinkID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__DrinkNews__UserI__2F10007B">
+          <End Role="UserInfo" Type="Self.UserInfo" Multiplicity="0..1" />
+          <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserInfo">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="DrinkNews">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DrinkDBModelStoreContainer">
+          <EntitySet Name="DrinkInfo" EntityType="Self.DrinkInfo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DrinkNews" EntityType="Self.DrinkNews" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DrinkType" EntityType="Self.DrinkType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="MessInfo" EntityType="Self.MessInfo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserInfo" EntityType="Self.UserInfo" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__DrinkInfo__TypeI__2A4B4B5E" Association="Self.FK__DrinkInfo__TypeI__2A4B4B5E">
+            <End Role="DrinkType" EntitySet="DrinkType" />
+            <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+          </AssociationSet>
+          <AssociationSet Name="FK__DrinkNews__Drink__2E1BDC42" Association="Self.FK__DrinkNews__Drink__2E1BDC42">
+            <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+            <End Role="DrinkNews" EntitySet="DrinkNews" />
+          </AssociationSet>
+          <AssociationSet Name="FK__DrinkNews__UserI__2F10007B" Association="Self.FK__DrinkNews__UserI__2F10007B">
+            <End Role="UserInfo" EntitySet="UserInfo" />
+            <End Role="DrinkNews" EntitySet="DrinkNews" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DrinkDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DrinkInfo">
+          <Key>
+            <PropertyRef Name="DrinkID" />
+          </Key>
+          <Property Name="DrinkID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Drinkimg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DrinkName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="DrinkMesg" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Remark" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="TypeID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="DrinkType" Relationship="Self.FK__DrinkInfo__TypeI__2A4B4B5E" FromRole="DrinkInfo" ToRole="DrinkType" />
+          <NavigationProperty Name="DrinkNews" Relationship="Self.FK__DrinkNews__Drink__2E1BDC42" FromRole="DrinkInfo" ToRole="DrinkNews" />
+        </EntityType>
+        <EntityType Name="DrinkNews">
+          <Key>
+            <PropertyRef Name="NewsID" />
+          </Key>
+          <Property Name="NewsID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Newsimg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="NewsName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="NewsMesg" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="NewsTime" Type="DateTime" Precision="3" />
+          <Property Name="DrinkID" Type="Int32" Nullable="false" />
+          <Property Name="UserID" Type="Int32" />
+          <NavigationProperty Name="DrinkInfo" Relationship="Self.FK__DrinkNews__Drink__2E1BDC42" FromRole="DrinkNews" ToRole="DrinkInfo" />
+          <NavigationProperty Name="UserInfo" Relationship="Self.FK__DrinkNews__UserI__2F10007B" FromRole="DrinkNews" ToRole="UserInfo" />
+        </EntityType>
+        <EntityType Name="DrinkType">
+          <Key>
+            <PropertyRef Name="TypeID" />
+          </Key>
+          <Property Name="TypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="DrinkInfo" Relationship="Self.FK__DrinkInfo__TypeI__2A4B4B5E" FromRole="DrinkType" ToRole="DrinkInfo" />
+        </EntityType>
+        <EntityType Name="MessInfo">
+          <Key>
+            <PropertyRef Name="MessID" />
+          </Key>
+          <Property Name="MessID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MessNum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="MessName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="MessPwd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserInfo">
+          <Key>
+            <PropertyRef Name="UserID" />
+          </Key>
+          <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserNum" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="UserPwd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="DrinkNews" Relationship="Self.FK__DrinkNews__UserI__2F10007B" FromRole="UserInfo" ToRole="DrinkNews" />
+        </EntityType>
+        <Association Name="FK__DrinkInfo__TypeI__2A4B4B5E">
+          <End Role="DrinkType" Type="Self.DrinkType" Multiplicity="1" />
+          <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DrinkType">
+              <PropertyRef Name="TypeID" />
+            </Principal>
+            <Dependent Role="DrinkInfo">
+              <PropertyRef Name="TypeID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__DrinkNews__Drink__2E1BDC42">
+          <End Role="DrinkInfo" Type="Self.DrinkInfo" Multiplicity="1" />
+          <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DrinkInfo">
+              <PropertyRef Name="DrinkID" />
+            </Principal>
+            <Dependent Role="DrinkNews">
+              <PropertyRef Name="DrinkID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__DrinkNews__UserI__2F10007B">
+          <End Role="UserInfo" Type="Self.UserInfo" Multiplicity="0..1" />
+          <End Role="DrinkNews" Type="Self.DrinkNews" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserInfo">
+              <PropertyRef Name="UserID" />
+            </Principal>
+            <Dependent Role="DrinkNews">
+              <PropertyRef Name="UserID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DrinkDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DrinkInfo" EntityType="Self.DrinkInfo" />
+          <EntitySet Name="DrinkNews" EntityType="Self.DrinkNews" />
+          <EntitySet Name="DrinkType" EntityType="Self.DrinkType" />
+          <EntitySet Name="MessInfo" EntityType="Self.MessInfo" />
+          <EntitySet Name="UserInfo" EntityType="Self.UserInfo" />
+          <AssociationSet Name="FK__DrinkInfo__TypeI__2A4B4B5E" Association="Self.FK__DrinkInfo__TypeI__2A4B4B5E">
+            <End Role="DrinkType" EntitySet="DrinkType" />
+            <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+          </AssociationSet>
+          <AssociationSet Name="FK__DrinkNews__Drink__2E1BDC42" Association="Self.FK__DrinkNews__Drink__2E1BDC42">
+            <End Role="DrinkInfo" EntitySet="DrinkInfo" />
+            <End Role="DrinkNews" EntitySet="DrinkNews" />
+          </AssociationSet>
+          <AssociationSet Name="FK__DrinkNews__UserI__2F10007B" Association="Self.FK__DrinkNews__UserI__2F10007B">
+            <End Role="UserInfo" EntitySet="UserInfo" />
+            <End Role="DrinkNews" EntitySet="DrinkNews" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DrinkDBModelStoreContainer" CdmEntityContainer="DrinkDBEntities">
+          <EntitySetMapping Name="DrinkInfo">
+            <EntityTypeMapping TypeName="DrinkDBModel.DrinkInfo">
+              <MappingFragment StoreEntitySet="DrinkInfo">
+                <ScalarProperty Name="DrinkID" ColumnName="DrinkID" />
+                <ScalarProperty Name="Drinkimg" ColumnName="Drinkimg" />
+                <ScalarProperty Name="DrinkName" ColumnName="DrinkName" />
+                <ScalarProperty Name="DrinkMesg" ColumnName="DrinkMesg" />
+                <ScalarProperty Name="Remark" ColumnName="Remark" />
+                <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DrinkNews">
+            <EntityTypeMapping TypeName="DrinkDBModel.DrinkNews">
+              <MappingFragment StoreEntitySet="DrinkNews">
+                <ScalarProperty Name="NewsID" ColumnName="NewsID" />
+                <ScalarProperty Name="Newsimg" ColumnName="Newsimg" />
+                <ScalarProperty Name="NewsName" ColumnName="NewsName" />
+                <ScalarProperty Name="NewsMesg" ColumnName="NewsMesg" />
+                <ScalarProperty Name="NewsTime" ColumnName="NewsTime" />
+                <ScalarProperty Name="DrinkID" ColumnName="DrinkID" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DrinkType">
+            <EntityTypeMapping TypeName="DrinkDBModel.DrinkType">
+              <MappingFragment StoreEntitySet="DrinkType">
+                <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+                <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="MessInfo">
+            <EntityTypeMapping TypeName="DrinkDBModel.MessInfo">
+              <MappingFragment StoreEntitySet="MessInfo">
+                <ScalarProperty Name="MessID" ColumnName="MessID" />
+                <ScalarProperty Name="MessNum" ColumnName="MessNum" />
+                <ScalarProperty Name="MessName" ColumnName="MessName" />
+                <ScalarProperty Name="MessPwd" ColumnName="MessPwd" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserInfo">
+            <EntityTypeMapping TypeName="DrinkDBModel.UserInfo">
+              <MappingFragment StoreEntitySet="UserInfo">
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="UserNum" ColumnName="UserNum" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="UserPwd" ColumnName="UserPwd" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="无" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "NewsMessage";
+    Layout = "~/Views/Shared/_main.cshtml";
+}
+@model DrinkDBModel.DrinkNews
+
+<style>
+    main {
+        width: 1050px;
+    }
+
+    h4 {
+        margin-top: 5px;
+        font-weight: bold;
+    }
+
+    #left {
+        width: 13%;
+        float: left;
+    }
+
+    #left1 {
+        text-align: center;
+    }
+
+    .p1 {
+        margin-top: 10px;
+        font-size: 20px;
+        color: blue;
+    }
+
+    .p2 {
+        margin: 0 auto;
+    }
+
+    #right {
+        width: 78%;
+        float: right;
+    }
+
+    #left ul {
+        margin-left: 25px;
+    }
+
+        #left ul li a {
+            color: black;
+            text-decoration: none;
+        }
+
+    #left a:hover {
+        color: greenyellow;
+    }
+
+    #txt1 {
+        text-align: center;
+    }
+</style>
+<div id="main">
+    <div id="left" style="position: fixed;margin-top:10px;">
+        <div id="left1">
+            <p><span class="p1"><strong>饮料</strong></span></p>
+            <p><a href="News" style="width:150px;" class="p2 btn btn-info btn-primary btn-lg btn-block">更多饮品消息></a></p>
+            <p><span class="p1"><strong>最新新闻</strong></span></p>
+            <ul>
+                <li><a href="#">“国潮风”当仁不让：被两乐压制20多年，国货汽水的“大”反攻开始了!</a></li>
+                <li><a href="#">Manner Coffee开店200家，中国邮政卖咖啡，2022年将成为中国咖啡的爆发之年？</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="right">
+        <h2>@Model.NewsName</h2>
+        <hr />
+        <img src="~/img/DrinkNewsIMG/@Model.Newsimg" width="765" height="400" />
+        <br /><br />
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;@Model.NewsMesg</p>
+        <p class="pull-right">@Model.NewsTime</p>
+        <br /><br /><br /><br /><br /><br />
+    </div>
+</div>

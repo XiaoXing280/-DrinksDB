@@ -1,0 +1,57 @@
+﻿@{
+    int pagecount = (int)ViewBag.pagecount;
+    int curindex = ViewBag.curindex;
+    var action = ViewBag.action;
+}
+<div class="text-center">
+    <ul class="pagination">
+        @if (curindex == 1)
+        {
+            <li class="disabled"><a href="#">首页</a></li>
+        }
+        else
+        {
+            <li><a href="@action?curindex=1">首页</a></li>
+        }
+        @if (curindex == pagecount)
+        {
+            <li class="disabled"><a href="#">下一页</a></li>
+        }
+        else
+        {
+            <li><a href="@action?curindex=@(curindex+1)">下一页</a></li>
+        }
+
+        @for (var i = 1; i <= pagecount; i++)
+        {
+            if (i == curindex)
+            {
+                <li class="active"><a href="@action?curindex=@i">@i</a></li>
+            }
+            else
+            {
+                <li><a href="@action?curindex=@i">@i</a></li>
+            }
+
+        }
+        @if (curindex == 1)
+        {
+            <li class="disabled"><a href="#">上一页</a></li>
+
+        }
+        else
+        {
+            <li><a href="@action?curindex=@(@curindex-1)">上一页</a></li>
+        }
+        @if (curindex == pagecount)
+        {
+            <li class="disabled"><a href="#">末页</a></li>
+        }
+        else
+        {
+            <li><a href="@action?curindex=@pagecount">末页</a></li>
+        }
+
+    </ul>
+</div>
+

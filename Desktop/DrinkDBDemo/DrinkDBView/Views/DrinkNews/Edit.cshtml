@@ -1,0 +1,89 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@model DrinkDBModel.DrinkNews
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>饮品新闻编辑</title>
+    <link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-10 col-sm-offset-1 col-md-offset-3">
+                <form method="post" action="Edit" enctype="multipart/form-data">
+                    <h2 class="text-center">饮品新闻编辑</h2>
+                    <br />
+                    <div class="form-group">
+                        <input name="url" hidden value="/DrinkDB/News" />
+                        <div class="col-md-4 col-sm-4" style="line-height:34px;">
+                            <font style="font-size:18px"><strong>新闻标题：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            <input type="hidden" name="NewsID" value="@Model.NewsID" />
+                            <textarea type="text" cols="25" rows="3" name="NewsName" class="form-control" required="" placeholder="请输入新闻标题">@Model.NewsName</textarea>
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-4 col-sm-4" style="line-height:34px;">
+                            <font style="font-size:18px"><strong>新闻内容：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            <textarea type="text" cols="25" rows="6" name="NewsMesg" class="form-control" required="" placeholder="请输入新闻内容">@Model.NewsMesg</textarea>
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-4 col-sm-4">
+                            <font style="font-size:18px"><strong>新闻图片：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            <input type="file" name="uploadFileName" value="上传图片" required="" />
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-4 col-sm-4" style="line-height:34px;">
+                            <font style="font-size:18px"><strong>发布时间：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            <input type="datetime-local" name="NewsTime" class="form-control" required="" />
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-4 col-sm-4" style="line-height:34px;">
+                            <font style="font-size:18px"><strong>饮品名称：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            @Html.DropDownList("DrinkID", null, "请选择", new { @class = "form-control" })
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-4 col-sm-4" style="line-height:34px;">
+                            <font style="font-size:18px"><strong>发布人：</strong></font>
+                        </div>
+                        <div class="col-md-8 col-sm-8">
+                            @Html.DropDownList("UserID", null, "请选择", new { @class = "form-control" })
+                            <br />
+                        </div>
+                    </div>
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary btn-success">保存</button>
+                        <a href="@ViewBag.URL" class="btn btn-primary ">退出</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

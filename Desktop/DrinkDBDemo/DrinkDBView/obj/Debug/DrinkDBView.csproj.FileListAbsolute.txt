@@ -1,0 +1,1075 @@
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+E:\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.AssemblyReference.cache
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBView.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.exe.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csc.rsp
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.exe.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\csi.rsp
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Managed.Core.targets
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.AppContext.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Collections.Immutable.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Console.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Globalization.Calendars.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Http.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Net.Sockets.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Reflection.Metadata.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.ValueTuple.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XmlDocument.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.exe.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\vbc.rsp
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\roslyn\VBCSCompiler.exe.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.Web.Infrastructure.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\WebGrease.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBBLL.dll.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBModel.dll.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\EntityFramework.SqlServer.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Helpers.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Mvc.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Optimization.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.Razor.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Deployment.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\System.Web.WebPages.Razor.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Newtonsoft.Json.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Antlr3.Runtime.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\DrinkDBDAL.dll.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csprojAssemblyReference.cache
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CoreCompileInputs.cache
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.csproj.CopyComplete
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBView\obj\Debug\DrinkDBView.pdb

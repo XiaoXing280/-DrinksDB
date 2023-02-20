@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "DrinkXT";
+    Layout = "~/Views/Shared/_main.cshtml";
+}
+@model List<DrinkDBModel.DrinkInfo>
+
+<div class="col-md-12">
+    <br />
+    <div class="col-md-9 " style="padding:0;">
+        <div class="row">
+            <div>
+                <form action="DrinkXT" method="post">
+                    <div class="input-group ">
+                        <input type="text" name="NewsName" class="input-sm" placeholder="请输入饮品名称" value="@ViewBag.NewsName">
+                        <div class="input-group col-md-4 pull-left" style="padding:0;">
+                            @Html.DropDownList("TypeID", null, "请选择", new { @class = "form-control" })
+                        </div>
+                        <button type="submit" class="btn btn-success">查询</button>
+                    </div>
+                </form>
+            </div>
+            @foreach (var itme in Model)
+            {
+                <div class="media">
+                    <div class="media-left">
+                        <img src="~/img/DrinkInfoIMG/@itme.Drinkimg" class="media-object" style="width:200px;height:100px;">
+                    </div>
+                    <div class="media-body">
+                        <h4>
+                            <font style="color:blue;font-family:'楷体';font-weight:bold;">@itme.DrinkName</font>(@itme.DrinkType.TypeName)
+                        </h4>
+                        <p>@itme.DrinkMesg</p>
+                    </div>
+                    <p><small>备注：@itme.Remark</small></p>
+                    <hr style="border-color:black" />
+                </div>
+            }
+        </div>
+    </div>
+    <div class="col-md-2 col-md-offset-1">
+        <a href="/DrinkInfo/Edit?DrinkID=0&url=/DrinkDB/DrinkXT" class="btn btn-danger center-block form-group text-center" style="font-size:20px">
+            <strong>添加饮品信息</strong>
+        </a>
+    </div>
+</div>
+@Html.Partial("~/Views/Shared/_fenye.cshtml");
+<br />
+<br />
+<br />
+<br />
+

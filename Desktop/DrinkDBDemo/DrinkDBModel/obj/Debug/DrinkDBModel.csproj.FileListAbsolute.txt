@@ -1,0 +1,148 @@
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\毕设MVC\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+C:\Users\student\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+E:\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.AssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+E:\MVC\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.AssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+C:\Users\MECHREVO\Desktop\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+E:\MVC\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.AssemblyReference.cache
+C:\Users\MECHREVO\Desktop\Desktop (2)\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csprojAssemblyReference.cache
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb
+E:\2004\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll.config
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\DrinkDBModel.pdb
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csprojAssemblyReference.cache
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CoreCompileInputs.cache
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.csproj.CopyComplete
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.dll
+E:\毕业设计书\Desktop\Desktop\DrinkDBDemo\DrinkDBModel\obj\Debug\DrinkDBModel.pdb

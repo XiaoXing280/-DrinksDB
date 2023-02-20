@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "XTguanli";
+    Layout = "~/Views/Shared/_main.cshtml";
+}
+<style>
+    * {
+        width: 1050px;
+        margin: 0 auto;
+    }
+</style>
+<link href="~/Bootstrap资源/css/bootstrap.min.css" rel="stylesheet" />
+<script type="text/javascript" src="~/Bootstrap资源/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="~/Bootstrap资源/js/bootstrap.min.js"></script>
+
+
+<div class="panel-group" id="accordion" style="margin-top:50px;">
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h4>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                    管理员数据管理
+                </a>
+            </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse text-center" style="margin:20px 0 20px 0;">
+            <a href="/MessInfo/Index" style="font-size:20px;">点击跳转管理员数据</a>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h4>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTow">
+                    用户数据管理
+                </a>
+            </h4>
+        </div>
+        <div id="collapseTow" class="panel-collapse collapse text-center" style="margin:20px 0 20px 0;">
+            <a href="/UserInfo/Index" style="font-size:20px;">点击跳转用户数据</a>
+        </div>
+    </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h4>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapsethree">
+                    饮品类型数据管理
+                </a>
+            </h4>
+        </div>
+        <div id="collapsethree" class="panel-collapse collapse text-center" style="margin:20px 0 20px 0;">
+            <a href="/DrinkType/Index" style="font-size:20px;">点击跳转饮品类型数据</a>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h4>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapsefour">
+                    饮品信息数据管理
+                </a>
+            </h4>
+        </div>
+        <div id="collapsefour" class="panel-collapse collapse text-center" style="margin:20px 0 20px 0;">
+            <a href="/DrinkInfo/Index" style="font-size:20px;">点击跳转饮品信息数据</a>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading text-center">
+            <h4>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapsefive">
+                    新闻信息数据管理
+                </a>
+            </h4>
+        </div>
+        <div id="collapsefive" class="panel-collapse collapse text-center" style="margin:20px 0 20px 0;">
+            <a href="/DrinkNews/Index" style="font-size:20px;">点击跳转新闻信息数据</a>
+        </div>
+    </div>
+</div>
+

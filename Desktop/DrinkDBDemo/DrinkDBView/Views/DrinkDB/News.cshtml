@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "News";
+    Layout = "~/Views/Shared/_main.cshtml";
+}
+@model List<DrinkDBModel.DrinkNews>
+  
+<div>
+    <img src="~/img/bans.jpg" class="img-rounded img-responsive" />
+</div>
+<br />
+<div class="col-md-12">
+    <br />
+    <div class="col-md-9 " style="padding:0;">
+        <div class="row">
+            <div>
+                <form action="News" method="post">
+                    <div class="input-group ">
+                        <input type="text" name="NewsName" class="input-sm" placeholder="请输入饮品名称" value="@ViewBag.NewsName">
+                        <button type="submit" class="btn btn-success">查询</button>
+                    </div>
+                </form>
+            </div>
+            @foreach (var itme in Model)
+            {
+            <div class="media">
+                <div class="media-left">
+                    <img src="~/img/DrinkNewsIMG/@itme.Newsimg" class="media-object" style="width:200px;height:100px;">
+                </div>
+                <div class="media-body">
+                    <a href="/DrinkDB/NewsMessage?NewsID=@itme.NewsID"><strong>@itme.NewsName</strong></a>
+                </div>
+                <div><p class="pull-right">@itme.NewsTime</p></div>
+                <br />
+                <hr style="border-color:black" />
+            </div>
+            }
+        </div>
+    </div>
+    <div class="col-md-2 col-md-offset-1">
+        <a href="/DrinkNews/Edit?NewsID=0&url=/DrinkDB/News" class="btn btn-danger center-block form-group text-center" style="font-size:20px">
+            <strong>添加新闻信息</strong>
+        </a>
+    </div>
+</div>
+@Html.Partial("~/Views/Shared/_fenye.cshtml");
+<br />
+<br />
+<br />
+<br />
+
+
